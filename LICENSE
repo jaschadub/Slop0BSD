@@ -1,0 +1,184 @@
+Slop0BSD License — v0.4.0
+
+Distributor: Jascha Wanger
+
+                         SECTION 1 — WAIVER
+
+1.1 — Copyright and Related Rights
+
+To the greatest extent permitted by, but not in contravention of,
+applicable law, the Distributor hereby overtly, fully, permanently,
+irrevocably, and unconditionally waives, abandons, and surrenders all
+of the Distributor's copyright and related rights and associated
+claims and causes of action, whether now known or unknown, in the
+Work.
+
+This waiver applies worldwide and includes, without limitation, all
+rights corresponding to the full scope of copyright as determined by
+applicable law, as well as any related or neighboring rights, database
+rights, and sui generis rights.
+
+1.2 — Moral Rights
+
+To the extent permitted by applicable law, the Distributor waives all
+moral rights in the Work, including any right of attribution (droit de
+paternité), right of integrity (droit au respect), and right of
+withdrawal.
+
+To the extent that moral rights in the Work CANNOT be waived under
+applicable law — including in jurisdictions where moral rights are
+inalienable — the Distributor irrevocably covenants not to assert
+any moral rights against any Recipient, and agrees not to initiate,
+support, or maintain any claim or action based on moral rights with
+respect to any Recipient's use, modification, or distribution of
+the Work.
+
+This covenant runs with the Work and binds the Distributor and the
+Distributor's successors, heirs, and assigns.
+
+1.3 — Patent Rights
+
+To the extent that the Distributor holds any patent claims that would
+be infringed by the Work as distributed, the Distributor hereby
+grants to every Recipient a perpetual, worldwide, non-exclusive,
+no-charge, royalty-free, irrevocable patent license to make, have
+made, use, offer to sell, sell, import, and otherwise transfer the
+Work.
+
+This grant extends only to patent claims licensable by the
+Distributor that are necessarily infringed by the Work alone, not
+by combinations of the Work with other software or hardware.
+
+If a Recipient institutes patent litigation against any entity
+(including a cross-claim or counterclaim in a lawsuit) alleging
+that the Work constitutes patent infringement, then any patent
+licenses granted to that Recipient under this Section terminate as
+of the date such litigation is filed.
+
+No other patent rights are granted by implication, estoppel, or
+otherwise. This instrument does not represent that the Work is free
+of third-party patent claims.
+
+                    SECTION 2 — FALLBACK LICENSE
+
+To the extent that any rights in the Work remain that cannot be
+effectively waived or rendered unassertable under Section 1, the
+Distributor hereby grants to every Recipient a perpetual, worldwide,
+non-exclusive, no-charge, royalty-free, irrevocable license to use,
+copy, modify, prepare derivative works of, publicly display, publicly
+perform, sublicense, and distribute the Work and any derivative works
+thereof, for any purpose whatsoever, without any conditions or
+obligations.
+
+                   SECTION 3 — CONTRACTUAL TERMS
+
+This Section constitutes a unilateral offer by the Distributor to
+every Recipient. A Recipient accepts this offer — and a contract is
+thereby formed — by redistributing the Work together with the
+Provenance Declaration and this license text substantially intact.
+
+A Recipient who uses the Work without redistributing it, or who
+redistributes the Work without the Provenance Declaration, is NOT
+party to this contract and receives NO benefit from Sections 3.1
+or 3.2 below. Such a Recipient may still use the Work freely under
+Sections 1 and 2 but does so without warranty disclaimers or
+liability limitations.
+
+3.1 — Disclaimer of Warranties
+
+THE WORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, CORRECTNESS,
+SECURITY, AND NON-INFRINGEMENT. THE DISTRIBUTOR MAKES NO
+REPRESENTATION THAT THE WORK IS FREE OF DEFECTS, ERRORS, VIRUSES,
+OR OTHER HARMFUL COMPONENTS.
+
+3.2 — Limitation of Liability
+
+IN NO EVENT SHALL THE DISTRIBUTOR, OR ANY GENERATOR, PROMPTER, OR
+CONTRIBUTOR, BE LIABLE TO ANY RECIPIENT FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING
+BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES,
+LOSS OF USE, DATA, OR PROFITS, OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ANY WAY OUT OF THE USE OF THE WORK, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+3.3 — Provenance
+
+(a) The Distributor represents, to the best of their knowledge and
+    belief, that any Provenance Declaration accompanying the Work
+    is accurate as of the date of distribution.
+
+(b) A Recipient who redistributes the Work SHOULD retain the
+    Provenance Declaration and this license text. Retention is the
+    mechanism by which the Recipient accepts this offer and obtains
+    the protections of Sections 3.1 and 3.2.
+
+(c) A Recipient who knowingly makes a material falsification to the
+    Provenance Declaration is liable for losses proximately caused
+    by reasonable reliance on that falsification, to the extent
+    permitted by applicable law. Such a Recipient forfeits the
+    protections of Sections 3.1 and 3.2 with respect to that
+    distribution. This constitutes a breach of this contract.
+
+              SECTION 4 — AI-GENERATED WORK NOTICE
+
+The Distributor states that this Work was, in whole or in part,
+generated by an AI System. The copyrightability of AI-generated
+works is jurisdiction-dependent and may change over time. To the
+extent that this Work, or any portion thereof, is not copyrightable
+under applicable law due to the absence of sufficient human
+authorship, Sections 1 and 2 above may have no legal effect, and
+this instrument operates primarily through the contractual terms of
+Section 3.
+
+This statement is a good-faith factual representation by the
+Distributor. It does not constitute a legal determination of
+copyright status in any jurisdiction.
+
+                     SECTION 5 — SEVERABILITY
+
+If any provision of this instrument is held to be unenforceable
+under the laws of any jurisdiction, such unenforceability shall not
+affect the remaining provisions, which shall continue in full force
+and effect. The unenforceable provision shall be modified to the
+minimum extent necessary to make it enforceable, or if modification
+is not possible, severed from this instrument.
+
+                    SECTION 6 — NO ENDORSEMENT
+
+Nothing in this license grants permission to use the name, trademarks,
+service marks, or other identifiers of the Distributor for
+endorsement, advertising, or promotional purposes without separate
+written consent.
+
+                    SECTION 7 — GOVERNING SCOPE
+
+This instrument does not create any obligation to provide support,
+maintenance, updates, or modifications to the Work. The Distributor
+may cease distribution at any time without affecting the rights of
+Recipients who have already received the Work.
+
+---
+
+Definitions:
+
+"AI System" means any machine learning model, large language model,
+code generation tool, or automated system that produces output without
+direct character-by-character human authorship.
+
+"Distributor" means the person or entity that makes the Work available
+under this license.
+
+"Recipient" means any person or entity that receives, uses, copies,
+modifies, or distributes the Work.
+
+"Provenance Declaration" means the structured metadata file describing
+the authorship composition of the Work (canonical format:
+SLOP0BSD.provenance).
+
+"The Work" means any source code, object code, specifications,
+documentation, configuration, or other material distributed under
+this license.
